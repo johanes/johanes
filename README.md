@@ -6,5 +6,5 @@ Software Engineer
 
 Java Software Engineer who enjoy to create Cloud Apps with Spring, support the TDD and BDD culture.
 
-*   🌍  I'm based in Earth
-*   ✉️  You can contact me at [contact@johanes.com.br](mailto:contact@johanes.com.br)
+* 🌍  I'm based in Earth
+* ✉️  You can contact me at [dev@johanes.com.br](mailto:dev@johanes.com.br)
